@@ -1,0 +1,1 @@
+export const baseUrl = 'https://voicenter-test-api.voicenter-ltd.workers.dev'
